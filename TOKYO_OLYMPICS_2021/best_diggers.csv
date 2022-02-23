@@ -1,0 +1,145 @@
+,ShirtNumber,PlayerName,Team,Digs,Errors,Receptions,AveragePerMatch,Success%,TotalAttempts
+0,9,Oh Jiyoung,KOR,93,60,11,11.62,56.71,164
+1,10,Kim Yeon Koung,KOR,83,41,20,10.38,57.64,144
+2,4,Wong-Orantes Justine,USA,82,42,20,10.25,56.94,144
+3,18,Brait Camila,BRA,82,21,20,10.25,66.67,123
+4,19,Podkopaeva Anna,ROC,73,34,21,12.17,57.03,128
+5,10,Braga Guimaraes Gabriela,BRA,66,33,12,8.25,59.46,111
+6,2,Akoz Simge Sebnem,TUR,65,33,20,10.83,55.08,118
+7,5,Castillo Brenda,DOM,64,33,19,10.67,55.17,116
+8,17,Popovic Silvija,SRB,61,39,11,7.62,54.95,111
+9,10,Larson Jordan,USA,60,31,12,7.5,58.25,103
+10,14,Bartsch-Hackley Michelle,USA,56,32,15,7.0,54.37,103
+11,16,Voronkova Irina,ROC,54,42,16,9.0,48.21,112
+12,6,De Gennaro Monica,ITA,53,28,15,8.83,55.21,96
+13,16,Rodrigues Fernanda,BRA,53,36,15,6.62,50.96,104
+14,6,Kobata Mako,JPN,51,24,7,10.2,62.2,82
+15,3,Yeum Hye Seon,KOR,50,27,5,6.25,60.98,82
+16,19,Milenkovic Bojana,SRB,49,24,7,6.12,61.25,80
+17,4,Ishikawa Mayu,JPN,49,33,7,9.8,55.06,89
+18,12,Rizzo Tatiana Soledad,ARG,45,39,13,9.0,46.39,97
+19,1,Kurogo Ai,JPN,44,30,4,8.8,56.41,78
+20,18,Boškovic Tijana,SRB,43,25,11,5.38,54.43,79
+21,9,Bosetti Caterina Chiara,ITA,40,18,10,6.67,58.82,68
+22,1,Busa Bianka,SRB,38,13,3,4.75,70.37,54
+23,6,Gong Xiangyu,CHN,38,13,7,7.6,65.52,58
+24,11,Caixeta Tandara,BRA,38,18,9,6.33,58.46,65
+25,18,Wang Mengjie,CHN,36,25,14,7.2,48.0,75
+26,9,Ismailoglu Meliha,TUR,36,26,12,6.0,48.65,74
+27,13,Startseva Evgeniya,ROC,33,29,11,5.5,45.21,73
+28,8,Goncharova Nataliya,ROC,31,18,9,5.17,53.45,58
+29,2,Poulter Jordyn,USA,31,21,20,4.43,43.06,72
+30,7,Baladin Hande,TUR,30,27,11,5.0,44.12,68
+31,10,Fedorovtseva Arina,ROC,29,27,12,4.83,42.65,68
+32,16,Kundu Agripina Khayesi,KEN,28,41,12,5.6,34.57,81
+33,13,Park Jeongah,KOR,28,36,6,3.5,40.0,70
+34,20,Martinez Brayelin Elizabeth,DOM,26,36,17,5.2,32.91,79
+35,16,Peña Isabel Yonkaira Paola,DOM,26,21,8,4.33,47.27,55
+36,4,Kim Heejin,KOR,26,30,11,3.25,38.81,67
+37,9,Ratzke Roberta Silva,BRA,26,13,1,3.25,65.0,40
+38,3,Özbay Cansu,TUR,25,15,7,4.17,53.19,47
+39,11,Aydemir Akyol Naz,TUR,25,8,6,5.0,64.1,39
+40,2,Koga Sarina,JPN,25,12,8,8.33,55.56,45
+41,14,Pietrini Elena,ITA,24,18,6,4.0,50.0,48
+42,3,Nizetich Paula Yamila,ARG,24,26,5,4.8,43.64,55
+43,11,Drews Andrea,USA,24,18,3,3.43,53.33,45
+44,14,Rivera Brens Prisilla,DOM,24,13,12,4.0,48.98,49
+45,4,Bulaich Simian Daniela,ARG,23,13,7,4.6,53.49,43
+46,10,Ognjenovic Maja,SRB,23,28,14,2.88,35.38,65
+47,12,Momii Aki,JPN,23,29,13,4.6,35.38,65
+48,9,Zhang Changning,CHN,22,15,6,4.4,51.16,43
+49,14,Moim Mercy,KEN,22,19,5,4.4,47.83,46
+50,15,Da Silva Ana Carolina,BRA,22,12,7,2.75,53.66,41
+51,20,Blagojevic Jelena,SRB,21,6,4,3.5,67.74,31
+52,11,Yao Di,CHN,21,14,6,4.2,51.22,41
+53,12,Li Yingying,CHN,21,15,10,4.2,45.65,46
+54,8,Silva Carneiro Macris Fernanda,BRA,21,24,11,3.5,37.5,56
+55,14,Yang Hyo Jin,KOR,21,7,5,2.62,63.64,33
+56,16,Mercado Erika,ARG,19,19,14,3.8,36.54,52
+57,2,Zhu Ting,CHN,19,21,5,6.33,42.22,45
+58,15,Hayashi Kotona,JPN,19,4,5,3.8,67.86,28
+59,18,Egonu Paola Ogechi,ITA,18,12,6,3.0,50.0,36
+60,22,Washington Haleigh,USA,18,8,7,2.25,54.55,33
+61,14,Fetisova Irina,ROC,17,6,6,2.83,58.62,29
+62,7,Marte Frica Niverka Dharlenis,DOM,17,24,11,2.83,32.69,52
+63,2,De Oliveira Saad Gattaz Caroline,BRA,16,3,6,2.0,64.0,25
+64,5,Malinov Ofelia,ITA,15,6,8,2.5,51.72,29
+65,14,Mayer Victoria,ARG,15,16,7,3.0,39.47,38
+66,23,Gonzalez Lopez Gaila Ceneida,DOM,15,10,4,2.5,51.72,29
+67,1,Wairimu Jane Wacu,KEN,15,21,12,3.0,31.25,48
+68,11,Kim Su Ji,KOR,15,7,3,1.88,60.0,25
+69,12,Thompson Jordan,USA,14,7,5,3.5,53.85,26
+70,13,Boz Meryem,TUR,14,9,6,2.8,48.28,29
+71,7,Montibeller Rosamaria,BRA,14,10,5,2.0,48.28,29
+72,14,Erdem Dündar Eda,TUR,13,8,4,2.17,52.0,25
+73,99,Karakurt Ebrar,TUR,12,4,8,2.0,50.0,24
+74,5,Ercan Seyma,TUR,12,13,5,3.0,40.0,30
+75,19,Pyo Seungju,KOR,12,10,4,1.5,46.15,26
+76,12,Pereira Natalia,BRA,12,5,8,1.71,48.0,25
+77,8,Orro Alessia,ITA,11,5,1,1.83,64.71,17
+78,17,Sylla Miryam Fatime,ITA,11,9,1,2.2,52.38,21
+79,1,Rodriguez Elina María,ARG,11,6,3,2.75,55.0,20
+80,1,Hancock Micha,USA,11,7,1,2.75,57.89,19
+81,8,Ishii Yuki,JPN,11,12,5,2.2,39.29,28
+82,7,An Hyejin,KOR,11,9,11,1.38,35.48,31
+83,16,Akinradewo Foluke,USA,10,12,11,1.25,30.3,33
+84,4,Kasaya Leonida,KEN,10,23,8,2.0,24.39,41
+85,6,Koroleva Irina,ROC,9,8,2,1.5,47.37,19
+86,21,Martinez Jineiry,DOM,9,11,6,1.5,34.62,26
+87,3,Eve Mejia Lisvel Elisa,DOM,9,10,6,1.8,36.0,25
+88,16,Ding Xia,CHN,9,16,11,3.0,25.0,36
+89,18,Gunes Zehra,TUR,9,13,1,1.5,39.13,23
+90,5,Shimamura Haruyo,JPN,9,5,5,1.8,47.37,19
+91,3,Tashiro Kanami,JPN,9,9,5,1.8,39.13,23
+92,1,Lee Soyoung,KOR,9,12,7,1.29,32.14,28
+93,5,Popovic Mina,SRB,8,7,4,1.0,42.11,19
+94,4,Senoglu Tugba,TUR,8,3,0,2.0,72.73,11
+95,11,Danesi Anna,ITA,7,2,3,1.17,58.33,12
+96,13,Farriol Bianca,ARG,7,0,2,1.4,77.78,9
+97,2,Germanier Sabrina Soledad,ARG,7,4,1,1.75,58.33,12
+98,18,De La Cruz De Peña Bethania,DOM,7,14,6,1.17,25.93,27
+99,25,Martinez Caro Larysmer,DOM,7,2,4,1.17,53.85,13
+100,11,Araki Erika,JPN,6,8,2,1.2,37.5,16
+101,5,Kiprono Sharon Chepchumba,KEN,6,21,8,1.2,17.14,35
+102,15,Hill Kimberly,USA,5,1,0,0.62,83.33,6
+103,15,Fortuna Antonela,ARG,5,4,0,1.0,55.56,9
+104,9,Mihajlovic Brankica,SRB,5,5,1,1.67,45.45,11
+105,16,Rasic Milena,SRB,5,8,6,0.62,26.32,19
+106,8,Lusenaka Joy,KEN,5,3,3,1.0,45.45,11
+107,25,Smirnova Kseniia,ROC,4,1,0,0.67,80.0,5
+108,26,Enina Ekaterina,ROC,4,3,2,1.0,44.44,9
+109,10,Chirichella Cristina,ITA,4,2,1,1.0,57.14,7
+110,12,Lazareva Anna,ROC,3,1,2,0.5,50.0,6
+111,13,Fahr Sarah Luisa,ITA,3,2,2,0.5,42.86,7
+112,1,Sorokaite Indre,ITA,3,2,1,0.5,50.0,6
+113,1,Yuan Xinyue,CHN,3,5,4,0.6,25.0,12
+114,19,Mukuvilani Edith,KEN,3,3,3,0.6,33.33,9
+115,13,Kaei Lorine Chebet,KEN,3,9,2,0.6,21.43,14
+116,17,Herrera Rodriguez Candelaria Lucia,ARG,2,1,0,0.5,66.67,3
+117,11,Lazcano Julieta Constanza,ARG,2,7,2,0.4,18.18,11
+118,23,Robinson Kelsey,USA,2,1,0,1.0,66.67,3
+119,1,Vargas Valdez Annerys Victoria,DOM,2,3,1,0.5,33.33,6
+120,14,Aleksic Maja,SRB,2,2,1,0.4,40.0,5
+121,8,Mirkovic Sladjana,SRB,2,0,1,0.33,66.67,3
+122,17,Yan Ni,CHN,2,2,2,0.67,33.33,6
+123,7,Wang Yuanyuan,CHN,2,3,2,0.5,28.57,7
+124,10,Murambi Noel,KEN,2,2,0,0.67,50.0,4
+125,16,Jeong Jiyun,KOR,2,3,5,0.29,20.0,10
+126,8,Park Eunjin,KOR,2,0,2,0.33,50.0,4
+127,4,Pilipenko Daria,ROC,1,0,1,0.33,50.0,2
+128,7,Folie Raphaela,ITA,1,1,0,0.5,50.0,2
+129,6,Dominguez Martinez Camil Inmaculada,DOM,1,6,1,0.2,12.5,8
+130,13,Bjelica Ana,SRB,1,0,1,0.5,50.0,2
+131,10,Liu Xiaotong,CHN,1,1,0,0.5,50.0,2
+132,12,Emaniman Gladys Ekaru,KEN,1,2,1,0.2,25.0,4
+133,9,Okumura Mai,JPN,1,1,0,1.0,50.0,2
+134,20,Correa Ana Beatriz,BRA,1,0,0,0.5,100.0,1
+135,5,Matveeva Polina,ROC,0,0,0,,,0
+136,24,Ogbogu Chiaka,USA,0,0,1,0.0,0.0,1
+137,6,Nosach Eugenia,ARG,0,0,0,,,0
+138,19,Liu Yanhan,CHN,0,0,0,,,0
+139,6,Caliskan Kubra,TUR,0,0,0,,,0
+140,18,Chemtai Emmaculate,KEN,0,0,2,0.0,0.0,2
+141,19,Yamada Nichika,JPN,0,1,0,0.0,0.0,1
+142,15,Jepkirui Pamela,KEN,0,2,0,0.0,0.0,2
+143,17,Menezes Oliveira de Souza Ana Cristina,BRA,0,0,0,,,0
