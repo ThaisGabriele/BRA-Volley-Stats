@@ -1,15 +1,23 @@
 # BRA Volley Stats
 
-Projeto voltado para coleta, análise, visualização e divulgação de dados de competições do voleibol feminino
+Projeto voltado para coleta, análise, visualização e divulgação de dados de competições do voleibol feminino brasileiro
 
-Competições
+## Competições
 
   * Dados de competições recentes disponibilizados:
+  
     * Olímpiadas de Tóquio
     * Liga das Nações 2021
-    * Mundial de Clubes
+    * Dados Olímpicos (1964-2016)
 
-## Data Sources
+## Análises
+
+* [Analisando dados históricos olímpicos](https://github.com/ThaisGabriele/DataAnalyticsProjects/blob/main/Analisando_dados_olimpicos/explorando_dados_olimpiadas.ipynb)
+* [Analisando dados da Liga das Nações 2021](https://github.com/ThaisGabriele/DataAnalyticsProjects/blob/main/Analysing_VNL2021/vnl2021.ipynb)
+  - [Tableau - Visualização da pontuação geral de cada atleta por fundamento](https://public.tableau.com/app/profile/thais.gabriele/viz/VNL2021_SCORERS/Painel1)
+
+
+## Fonte dos dados
 
 * https://en.volleyballworld.com/volleyball/competitions/olympics-2020/
 * https://en.volleyballworld.com/volleyball/competitions/vnl-2021/
